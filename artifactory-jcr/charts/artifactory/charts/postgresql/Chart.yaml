@@ -2,8 +2,7 @@ annotations:
   category: Database
 apiVersion: v1
 appVersion: 11.9.0
-description: Chart for PostgreSQL, an object-relational database management system
-  (ORDBMS) with an emphasis on extensibility and on standards-compliance.
+description: Chart for PostgreSQL, an object-relational database management system (ORDBMS) with an emphasis on extensibility and on standards-compliance.
 home: https://www.postgresql.org/
 icon: https://bitnami.com/assets/stacks/postgresql/img/postgresql-stack-110x117.png
 keywords:

@@ -1,7 +1,7 @@
 # JFrog Container Registry Chart Changelog
 All changes to this chart will be documented in this file.
 
-## [3.18.6] - Apr 5, 2021
+## [3.18.12] - Apr 5, 2021
 * **IMPORTANT**
 * Added `charts.jfrog.io` as default JFrog Helm repository
 * Update dependency Artifactory chart version to 11.13.0 (Artifactory 7.17.5)
